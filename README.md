@@ -3,7 +3,7 @@
 
 ## Table of Contents 
 * [Table of Contents](#Table-of-Contents)
-* [Hello Functions](#Hello Functions)
+* [HelloFunctions](#HelloFunctions)
 
 
 
