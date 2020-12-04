@@ -24,8 +24,7 @@ This assigment is an intro back into coding and ardiuno. You have to set up your
 
 ### Image
 
-![Screenshot 2020-12-04 at 11 19 43 AM](https://user-images.githubusercontent.com/71407064/101187667-a7fb8a00-3622-11eb-98cc-2297729d7fd5.png)
-
+![Screenshot 2020-12-04 at 11 56 43 AM](https://user-images.githubusercontent.com/71407064/101191570-d5970200-3627-11eb-98e5-6003a2e40db0.png)
 
 ### Reflection
 
