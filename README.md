@@ -15,33 +15,33 @@
 
 ### Description 
 
+This assigment is an intro back into coding and ardiuno. You have to set up your code to make and LED blink and also fade in and out. 
 
 
 ### Evidence
 
-
+[LinktoCode](https://create.arduino.cc/editor/JacksonElmore/e73c55cb-41b9-423a-803f-4687a53c0980/preview)
 
 ### Image
 
-![Screenshot 2020-11-30 at 3 42 42 PM](https://user-images.githubusercontent.com/71407064/100662350-c3b11880-3322-11eb-9527-5a8e3d49d21d.png)
+![Screenshot 2020-12-04 at 11 19 43 AM](https://user-images.githubusercontent.com/71407064/101187667-a7fb8a00-3622-11eb-98cc-2297729d7fd5.png)
 
 
 ### Reflection
 
-
-
+This assigment taught me some important basic things about the aurdino and how it works. I think its set me up to continue moving through the arduino assigments.
 
 
 ## HelloFunctions
 
-I'm starting to understand a little more about arduino and I have the first assignment hello functions almost done. I have the HC-SRO4 working and sensing how far away somehting is, now I just need to get the other part working.(I will clean all of this up once I am finished with the assigment.)
+### Description 
+
 
 ### Evidence 
 [LinktoCode](https://create.arduino.cc/editor/JacksonElmore/8390de93-b3b0-4589-894b-5c980b39b844)
 
 ### Image
 
-I don't know where to find diagram makers.(I will clean this up and have a picture of this once I figure it out and finish the assignment.)
 
 
 
