@@ -56,11 +56,20 @@ This assignment was pretty easy, as all you did was write a little bit of code t
 
 ### Description 
 
+Hello functions is an assignment about using functions to activate a servo, all while your distance sensor is working and can sense how far away an object is.
 
 ### Evidence 
-[LinktoCode](https://create.arduino.cc/editor/JacksonElmore/8390de93-b3b0-4589-894b-5c980b39b844)
+[LinktoCode](https://create.arduino.cc/editor/JacksonElmore/4cebbf0b-659a-4f6c-a4d2-da1d67535797/preview)
 
 ### Image
+
+![Screenshot 2021-01-15 at 7 58 17 PM](https://user-images.githubusercontent.com/71407064/104792367-2132e480-576c-11eb-9454-93cdef23a5f8.png)
+
+
+### Reflection 
+
+Hello functions was a good way to understand more about the distance sensor and servo, as well as functions. 
+
 
 
 
