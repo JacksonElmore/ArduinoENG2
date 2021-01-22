@@ -76,11 +76,19 @@ Hello functions was a good way to understand more about the distance sensor and 
 
 ### Description
 
+New ping is a assignment for us to learn about a massive library of code for the HC-SR04. The goal is to make somethng simple using New Ping.
+
 ### Evidence
+
+Not done yet still working
+
+[LinktoCode](https://create.arduino.cc/editor/JacksonElmore/dbdba901-365f-42d1-ab60-fd25d9a1d78a/preview)
 
 ### Image
 
 ### Reflection
+
+I'm not done but this seems like a pretty cool thing that is very useful for anyone working on aurdiuno.
 
 
 
