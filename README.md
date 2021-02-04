@@ -7,6 +7,7 @@
 * [FiniteLEDBlinker](#FiniteLEDBlinker)
 * [HelloFunctions](#HelloFunctions)
 * [NewPing](#NewPing)
+* [Photoresistor](#Photoresistor) 
 
 
 
@@ -80,17 +81,33 @@ New ping is a assignment for us to learn about a massive library of code for the
 
 ### Evidence
 
-Not done yet still working
-
 [LinktoCode](https://create.arduino.cc/editor/JacksonElmore/dbdba901-365f-42d1-ab60-fd25d9a1d78a/preview)
 
 ### Image
 
+(![Screenshot 2021-02-04 at 3 30 44 PM](https://user-images.githubusercontent.com/71407064/106951614-fa7a2500-66fd-11eb-8aa2-11a86de9b0d7.png)
+
 ### Reflection
 
-I'm not done but this seems like a pretty cool thing that is very useful for anyone working on aurdiuno.
+This was a cool assignment because it showed how we can use different things coded by others. Such as the new ping library.
 
+## Photoresistor
 
+### Description
+
+This assignment was about using a photoresistor to sense the light in your room to create a nightlight.
+
+### Evidence
+
+[LinktoCode](https://create.arduino.cc/editor/JacksonElmore/288dac05-4f14-4d3d-8220-874452c15362/preview)
+
+### Image
+
+![Screenshot 2021-02-04 at 3 54 21 PM](https://user-images.githubusercontent.com/71407064/106954083-45496c00-6701-11eb-8552-4be2d9e7bf98.png)
+
+### Reflection
+
+This assignment was pretty cool because you see night lights all the time everywhere so it was nice to make one.
 
 
 
